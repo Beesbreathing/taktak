@@ -4,7 +4,7 @@
 
  ![](images\natri.png)Natri ![](images\creation.png)Creation ![](images\genesis.png)Genesis ![](images\nullifcation.png)Nullify
 
-![test2]..\images\descended.png)
+![test2](..\images\descended.png)
 
 Bound![](images\bound.png)
 
