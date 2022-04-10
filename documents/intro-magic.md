@@ -10,7 +10,7 @@
 
 Worldly![](images\suspended.png)Suspended![](images\free.png)Voidly ![](images\ascended.png)Free
 
-![](images\vibromancy.png)Vibromancy ![](images\animancy.png)Animancy ![](images\vegemancy.png)Vegemancy ![](images\necromancy.png)Necromancy ![](images\constimancy.png)Constimancy
+![](\images\vibromancy.png)Vibromancy ![](images\animancy.png)Animancy ![](images\vegemancy.png)Vegemancy ![](images\necromancy.png)Necromancy ![](images\constimancy.png)Constimancy
 
 ![](images\Vish.png)Vish ![](images\vystal.png)Vystal ![](images\vishrune.png)Dawnstone ![](images\vusion.png)Vusion
 
