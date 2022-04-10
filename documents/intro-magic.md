@@ -4,7 +4,9 @@
 
 ![](images\realityplane.png)Reality Plane ![](images\body.png)Body ![](images\mind.png) Link ![](images\link.png)Mind![](images\etherealplane.png)Ethereal Plane
 
-![](images\descended.png)Bound![](images\bound.png)Worldly![](images\suspended.png)Suspended![](images\free.png)Voidly ![](images\ascended.png)Free
+![](images\descended.png)Bound![](images\bound.png)
+
+Worldly![](images\suspended.png)Suspended![](images\free.png)Voidly ![](images\ascended.png)Free
 
 ![](images\vibromancy.png)Vibromancy ![](images\animancy.png)Animancy ![](images\vegemancy.png)Vegemancy ![](images\necromancy.png)Necromancy ![](images\constimancy.png)Constimancy
 
