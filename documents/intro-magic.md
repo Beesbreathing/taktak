@@ -4,9 +4,9 @@
 
  ![](images\natri.png)Natri ![](images\creation.png)Creation ![](images\genesis.png)Genesis ![](images\nullifcation.png)Nullify
 
-![](images\realityplane.png)Reality Plane ![](images\body.png)Body ![](images\mind.png) Link ![](images\link.png)Mind![](images\etherealplane.png)Ethereal Plane
+![test](\images\descended.png)
 
-![](images\descended.png)Bound![](images\bound.png)
+Bound![](images\bound.png)
 
 Worldly![](images\suspended.png)Suspended![](images\free.png)Voidly ![](images\ascended.png)Free
 
