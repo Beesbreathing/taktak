@@ -1,6 +1,8 @@
 <img src="https://lh6.googleusercontent.com/H9KRtlIY9T9EMm-IhHSlgNWm6_kuOXM7CvoN7VJ5LkskNRj_iCz8GujY5hVpZqdGl8AtsKDkfAjGK58NRChuKbUIjFSiwjBBHZVZJx70kHz3MCdd4XLYXR83DJ5K8DpP8_MsIRzO" title="" alt="" width="627">
 
-![test](images\imbuement.png)Imbuement ![](images\natri.png)Natri ![](images\creation.png)Creation ![](images\genesis.png)Genesis ![](images\nullifcation.png)Nullify
+![test](images\imbuement.png)Imbuement
+
+ ![](images\natri.png)Natri ![](images\creation.png)Creation ![](images\genesis.png)Genesis ![](images\nullifcation.png)Nullify
 
 ![](images\realityplane.png)Reality Plane ![](images\body.png)Body ![](images\mind.png) Link ![](images\link.png)Mind![](images\etherealplane.png)Ethereal Plane
 
