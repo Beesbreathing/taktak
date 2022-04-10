@@ -4,7 +4,7 @@
 
  ![](images\natri.png)Natri ![](images\creation.png)Creation ![](images\genesis.png)Genesis ![](images\nullifcation.png)Nullify
 
-![test11](\images\bound.png)
+![test11](\images\"bound.png")
 
 Worldly![](images\suspended.png)Suspended![](images\free.png)Voidly ![](images\ascended.png)Free
 
