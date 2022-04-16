@@ -239,19 +239,19 @@ These are used specifically on pieces of Dawnstone to create ethereal links betw
 
 #### Natria: The Eye of the Divine
 
-Along the way you may have come up against questions without answers, perhaps a few, perhaps many. You may have realized that they are simply not yet known, in many cases some know of them but have not shared them. But in any other case than those it is because the knowledge is known to exist through a specific mean unknown, that mean is referred to always, as Natri. The beginning, the sight. Known to some as creator, to others as mere nature. To true Dawners however, it is merely known, as the source of these unknowns. The symbols related to those unknowns are the Natrian symbols.
+Along the way you may have come up against questions without answers, perhaps a few, perhaps many. You may have realized that they are simply not yet known, in many cases some know of them but have not shared them. But in any other case than those it is because the knowledge is known to exist through a specific mean unknown, that mean is referred to always, as Natri. The beginning, the sight. Known to some as creator, to others as nature. To true Dawners however, it is merely known, as the source of these unknowns. The symbols related to those unknowns are the Natrian symbols.
 
 ![](images\imbuement.png?msec=1649119658196?msec=1649617426996?msec=1649636467030?msec=1649643359053)![](images\natri.png?msec=1649119658200?msec=1649617426996?msec=1649636467031?msec=1649643359053)![](images\creation.png?msec=1649119658203?msec=1649617426996?msec=1649636467031?msec=1649643359053)![](images\genesis.png?msec=1649119658205?msec=1649617426981?msec=1649636467031?msec=1649643359053)![](images\nullifcation.png?msec=1649119658208?msec=1649617426981?msec=1649636467031?msec=1649643359053)
 
 In order they are, Imbuement, Natri, Creation, Origin, and Nullify.
 
- ![](images\imbuement.png?msec=1649119658196?msec=1649617426996?msec=1649636467030?msec=1649643359053) Imbuement. Known as the pure equivelant to Dawning, imbuement is the creation of Natural Dawned objects through unknown means.
+ ![](images\imbuement.png?msec=1649119658196?msec=1649617426996?msec=1649636467030?msec=1649643359053) Imbuement. Known as the pure equivelant to Dawning, imbuement is the creation of Natural Dawned objects through Natrian means.
 
-![](images\natri.png?msec=1649119658200?msec=1649617426996?msec=1649636467031?msec=1649643359053)Natri, the eye of the triangle of Natri, this symbol is used often to add the ability of sense to a Dawned creation, or to peer into the Future. The power of this symbol is illusive, as being a higher symbol it can only be used on Dawnstone, which is somewhat difficult to use.
+![](images\natri.png?msec=1649119658200?msec=1649617426996?msec=1649636467031?msec=1649643359053)Natri, the symbol used often to add the ability of sense to a Dawned creation, or to peer into the Future. The power of this symbol is illusive, as being a higher symbol it can only be used on Dawnstone.
 
-![](images\creation.png?msec=1649119658203?msec=1649617426996?msec=1649636467031?msec=1649643359053)Creation, in what way do the Symbols truly cast the shadows that become properties? why must that be described in such a metaphorical way? Put simply, the means by which the properties truly come into existence, why the symbols of the triangle are the only symbols known to work, or what Vish really is. All of that is known to be from the same unknown source, the Natrian symbol of Creation, used to create new properties.
+![](images\creation.png?msec=1649119658203?msec=1649617426996?msec=1649636467031?msec=1649643359053)Creation, in what way do the Symbols truly cast the shadows that become properties? why must that be described in such a metaphorical way? Put simply, the means by which the properties truly come into existence, or why the symbols of the triangle are the only symbols known to work. All of that is known to be from the same unknown source, the Natrian symbol of Creation, used to create new essences.
 
-![](images\genesis.png?msec=1649119658205?msec=1649617426981?msec=1649636467031?msec=1649643359053)Origin. Likewise, the origin of the Dawnstar Fundamentals, the true fundamental, and the Sun, all originate from? Is unknown, but said to be sourced in the Natrian symbol of Origin. Used to create new Suns.
+![](images\genesis.png?msec=1649119658205?msec=1649617426981?msec=1649636467031?msec=1649643359053)Origin. Likewise, the origin of the Dawnstar Fundamentals, the true fundamental, and the Sun, all originate from somewhere unknown, but said to be sourced in the Natrian symbol of Origin. Used to create new Suns.
 
 ![](images\nullifcation.png?msec=1649119658208?msec=1649617426981?msec=1649636467031?msec=1649643359053)Nullfy, negates and renders empty, any, all, and everything.
 
